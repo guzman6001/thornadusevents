@@ -1,0 +1,9 @@
+com/thornadus/model/Event.class
+com/thornadus/service/api/EventServiceAPI.class
+com/thornadus/service/impl/EventServiceImpl.class
+com/thornadus/repo/EventRepo.class
+com/thornadus/commons/BaseController.class
+com/thornadus/commons/GenericServiceImpl.class
+com/thornadus/controller/EventRestController.class
+com/thornadus/ThornadusEventsApplication.class
+com/thornadus/commons/GenericServiceAPI.class
