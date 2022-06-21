@@ -26,8 +26,8 @@ Create a new event all all fields are mandatory.
 >  "id": null,
 >  "title": "Thornadus Party",
 >  "description": "We will celebrate a big crazy wild party.",
->  "start": ""
->  "end": ""
+>  "startDate": "2022-07-25T21:00:00.000+00:00",
+>  "endDate": "2022-07-26T07:00:00.000+00:00"
 >}
 >```
 
@@ -48,8 +48,8 @@ Update/Edit the event identified by [ID]. Returns the event updated. [ID] is man
 >  "id": 1,
 >  "title": "Thornadus Party",
 >  "description": "We will celebrate a big code party, with coffee and some cookies.",
->  "start": ""
->  "end": ""
+>  "startDate": "2022-07-25T21:00:00.000+00:00",
+>  "endDate": "2022-07-26T23:00:00.000+00:00"
 >}
 >```
 
