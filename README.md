@@ -9,7 +9,7 @@ Spring Initializr uses maven wrapper so type this:
 > $ ./mvnw clean spring-boot:run
 
 Alternatively using your installed maven version type this:
-$ mvn clean spring-boot:run
+> $ mvn clean spring-boot:run
 
 When the app starts, we can use Postman to test the services provided.
 
